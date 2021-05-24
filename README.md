@@ -1,5 +1,5 @@
 # Mr.Cho_Cookbook--Android
- A simple cookbook app!
+ A simple cookbook app for Android!
  
  This app is a parody Cookbook where all the recipes and the mascot are my Grade 11 Computer Science teacher named Mr. Cho.
  The Mascot is an image of my teacher's face photoshopped on an icon of a chef. 
