@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".wedges_r">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="281dp"
+        android:background="@drawable/wedges"
+        android:foreground="@drawable/wedges" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="293dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="438dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" INGREDIENTS:
+                                                                                                    --------------------------------------------------
+                                                                                                    1. 1/4 cup grated Parmesan cheese
+                                                                                                    -
+                                                                                                    2. 1 tablespoon olive oil
+                                                                                                    -
+                                                                                                    3. 1 teaspoon onion powder
+                                                                                                    -
+                                                                                                    4. 1 teaspoon garlic powder
+                                                                                                    -
+                                                                                                    5. 1/4 teaspoon ground black pepper
+                                                                                                    -
+                                                                                                    6. 1/4 teaspoon salt
+                                                                                                    -
+                                                                                                    7. 2 russet potatoes, scrubbed and cut into eighths
+                                                                                                    ---------------------------------------------------
+                                                                                                     COOKING STEPS:
+                                                                                                    ---------------------------------------------------
+                                                                                                    1. Preheat an oven to 425 degrees F (220 degrees C)
+                                                                                                    -
+                                                                                                    2. Place Parmesan cheese, olive oil, onion powder, garlic powder, pepper, salt, and potatoes into a resealable plastic bag. Seal the bag, then shake to coat the potatoes with the seasoning. Spread the potatoes over a baking sheet
+                                                                                                    -
+                                                                                                    3. Bake in the preheated oven until the potatoes are easily pierced with a fork, about 25 minutes
+                                                                                                    ---------------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    ---------------------------------------------------
+                                                                                                    Calories: 123
+                                                                                                    -
+                                                                                                    Total fat: 2.2g
+                                                                                                    -
+                                                                                                    Cholesterol: 0mg
+                                                                                                    -
+                                                                                                    Sodium: 49mg
+                                                                                                    -
+                                                                                                    Potassium: 394mg
+                                                                                                    -
+                                                                                                    Total Carbohydrates: 26g
+                                                                                                    "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+    </ScrollView>
+
+
+</RelativeLayout>

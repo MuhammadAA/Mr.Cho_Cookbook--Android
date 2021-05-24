@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cookies_n_creme_r">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="460dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="271dp"
+        android:background="@drawable/milkshake"
+        android:foreground="@drawable/milkshake" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="457dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="4dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="INGREDIENTS:
+                                                                                                    -----------------------------------------------
+                                                                                                    1. 6 oreo cookies
+                                                                                                    -
+                                                                                                    2. 2 1/2 cups french vanilla ice cream, softened
+                                                                                                    -
+                                                                                                    3. 1/4 cup milk
+                                                                                                    -
+                                                                                                    4. 2 teaspoons vanilla extract
+                                                                                                    -
+                                                                                                    5. whipped cream, optional
+                                                                                                    -
+                                                                                                    6. two maraschino cherries, optional
+                                                                                                    -----------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    -----------------------------------------------
+                                                                                                    1. In a blender, crush cookies with a few good pulses
+                                                                                                    -
+                                                                                                    2. Add ice cream, milk and vanilla extract. Blend until smooth
+                                                                                                    -
+                                                                                                    3. Pour into 2 tall glasses and garnish each with whipped cream and a maraschino cherry
+                                                                                                    -----------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    -----------------------------------------------
+                                                                                                    Calories: 520
+                                                                                                    -
+                                                                                                    Total fat: 25g
+                                                                                                    -
+                                                                                                    Cholesterol: 70mg
+                                                                                                    -
+                                                                                                    Sodium: 400mg
+                                                                                                    -
+                                                                                                    Potassium: 350mg
+                                                                                                    -
+                                                                                                    Total carbohydrates: 73g
+                                                                                                    "
+            tools:ignore="HardcodedText"/>
+
+
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".baked_potato">
+
+
+    1
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="-1dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="298dp"
+        android:background="@drawable/baked_potato"
+        android:foreground="@drawable/baked_potato" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="314dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="424dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="-7dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="INGREDIENTS:
+                                                                                                    --------------------------------------------------
+                                                                                                    1. 4 (12-ounce; 340g) potatoes, preferably russets
+                                                                                                    -
+                                                                                                    2. Canola, vegetable, or olive oil, for rubbing
+                                                                                                    -
+                                                                                                    3. 1 stick unsalted butter (4 ounces; 114g), diced
+                                                                                                    -
+                                                                                                    4. Kosher salt and freshly ground black pepper
+                                                                                                    -
+                                                                                                    5. Toppings of your choice, such as grated cheddar cheese, crispy diced bacon bits, minced chives, sliced scallions, and/or sour cream
+                                                                                                    --------------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    --------------------------------------------------
+                                                                                                    1. Preheat oven to 375°F (190°C). Using a fork or paring knife, puncture potatoes in several spots. Rub each potato with a light coat of oil. Arrange on a rack set on a baking sheet, or directly on an oven rack, and bake until a fork can easily be inserted into the center of each potato, about 1 hour. If setting potatoes directly on oven rack, set a sheet of foil on the rack below to catch any oil drips
+                                                                                                    -
+                                                                                                    2. Preheat oven to 450°F (230°C). Using a fork or paring knife, puncture potatoes in several spots. Microwave potatoes for 5 minutes. Rub each potato with a light coat of oil. Arrange on a rack set on a baking sheet, or directly on an oven rack, and bake until a fork can easily be inserted into the center of each potato, about 20 minutes. If setting potatoes directly on oven rack, set a sheet of foil on the rack below to catch any oil drips
+                                                                                                    -
+                                                                                                    3. Let potatoes rest 5 minutes. Slice each open lengthwise and scoop flesh into a mixing bowl. Add butter, season with salt and pepper, and roughly mash, just until butter is incorporated but potatoes are still chunky
+                                                                                                    -
+                                                                                                    4. Scoop mashed potatoes back into skins. (You can refill each skin, making 4 smaller potatoes, or use all the mashed potato to refill only half the skins, making 2 overstuffed potatoes.) Using your hands, reshape each stuffed potato back into a classic baked-potato shape
+                                                                                                    -
+                                                                                                    5. Top with toppings of your choice. To melt cheese, add it first, then return potatoes to oven until cheese melts, about 1 minute; alternatively, use a torch to melt cheese. Serve right away
+                                                                                                    --------------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    --------------------------------------------------
+                                                                                                    Calories: 93
+                                                                                                    -
+                                                                                                    Total fat: 0.1g
+                                                                                                    -
+                                                                                                    Cholesterol: 0mg
+                                                                                                    -
+                                                                                                    Sodium: 10mg
+                                                                                                    -
+                                                                                                    Potassium: 535mg
+                                                                                                    -
+                                                                                                    Total carbohydrates: 21g
+                                                                                                    "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+    </ScrollView>
+
+</RelativeLayout>

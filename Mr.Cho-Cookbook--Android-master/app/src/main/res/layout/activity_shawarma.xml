@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".shawarma">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="281dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-4dp"
+        android:layout_marginTop="-1dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="450dp"
+        android:background="@drawable/shawarma"
+        android:foreground="@drawable/shawarma" />
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="466dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="265dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="INGREDIENTS:
+                                                                                                    --------------------------------------------------------
+                                                                                                    1. 1/2 cup extra-virgin olive oil
+                                                                                                    -
+                                                                                                    2. Juice of 1 lemon
+                                                                                                    -
+                                                                                                    3. 3 cloves garlic, minced
+                                                                                                    -
+                                                                                                    4. 2 tsp. kosher salt
+                                                                                                    -
+                                                                                                    5. 1 tsp. ground cumin
+                                                                                                    -
+                                                                                                    6. 1 tsp. ground coriander
+                                                                                                    -
+                                                                                                    7. 1/2 tsp. freshly ground black pepper
+                                                                                                    -
+                                                                                                    8. 1/2 tsp. ground turmeric
+                                                                                                    -
+                                                                                                    9. 1/4 tsp. ground cinnamon
+                                                                                                    -
+                                                                                                    10. 1/4 tsp. cayenne pepper
+                                                                                                    -
+                                                                                                    11. 2 lb. boneless skinless chicken thighs
+                                                                                                    -
+                                                                                                    12. Cooking spray
+                                                                                                    -
+                                                                                                    13. 1 large onion, thinly sliced
+                                                                                                    -
+                                                                                                    14. 1/2 c. Greek yogurt
+                                                                                                    -
+                                                                                                    15. Juice of 1/2 lemon
+                                                                                                    -
+                                                                                                    16. 1 tbsp. extra-virgin olive oil
+                                                                                                    -
+                                                                                                    17. 2 cloves garlic, smashed and minced
+                                                                                                    -
+                                                                                                    18. Kosher salt
+                                                                                                    -
+                                                                                                    19. Pinch of crushed red pepper flakes
+                                                                                                    -
+                                                                                                    21. Pitas, warmed
+                                                                                                    -
+                                                                                                    22. Chopped romaine
+                                                                                                    -
+                                                                                                    23. Cherry tomatoes, halved
+                                                                                                    -
+                                                                                                    24. Cucumber, thinly sliced
+                                                                                                    --------------------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    --------------------------------------------------------
+                                                                                                    1. Make chicken: In a large bowl, whisk together oil, lemon juice, garlic, and seasonings. Add chicken and toss to coat. Cover and refrigerate for at least 2 hours and up to overnight
+                                                                                                    -
+                                                                                                    2. Preheat oven to 425° and grease a large baking sheet with cooking spray. Add onion to marinade and toss to coat. Remove chicken and onion from marinade and place on prepared baking sheet. Bake until chicken is golden and cooked through, 30 minutes. Let chicken rest on cutting board for 5 minutes, then thinly slice
+                                                                                                    -
+                                                                                                    3. Meanwhile, make yogurt sauce: In a small bowl, whisk together yogurt, lemon juice, oil, and garlic. Season with salt and a pinch of red pepper flakes. To serve as a pita, top warmed pitas with chicken, onion, romaine, tomatoes, cucumber, and yogurt sauce
+                                                                                                    --------------------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    --------------------------------------------------------
+                                                                                                    Calories: 475
+                                                                                                    -
+                                                                                                    Total fat: 13.2g
+                                                                                                    -
+                                                                                                    Cholesterol: 85mg
+                                                                                                    -
+                                                                                                    Sodium: 650mg
+                                                                                                    -
+                                                                                                    Potassium: 0mg
+                                                                                                    -
+                                                                                                    Total Carbohydrate: 48g"
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+
+    </ScrollView>
+
+
+</RelativeLayout>

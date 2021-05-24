@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gelato_r">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="356dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="375dp"
+        android:background="@drawable/gelato"
+        android:foreground="@drawable/gelato" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="341dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="INGREDIENTS:
+                                                                                                    --------------------------------------------
+                                                                                                    1. 9 1/4 ounces plain or very lightly toasted sugar (about 1 1/3 cups; 265g)
+                                                                                                    -
+                                                                                                    2. 1 1/4 ounces cornstarch (about 1/4 cup; 35g)
+                                                                                                    -
+                                                                                                    3. 1/2 plus 1/8 teaspoon (2.5g) Diamond Crystal kosher salt, or more to taste; for table salt, use about half as much by volume or the same weight
+                                                                                                    -
+                                                                                                    4. 20 ounces best-quality goat's milk, preferably grass-fed (about 2 1/2 cups; 565g), divided
+                                                                                                    -
+                                                                                                    5. 8 ounces best-quality heavy cream, preferably grass-fed (about 1 cup; 225g)
+                                                                                                    -
+                                                                                                    6. 8 ounces fresh raspberries or similar thin-skinned fruits, like strawberries (volume will vary; about 225g)
+                                                                                                    -
+                                                                                                    7. 1 ounce lemon juice (about 2 tablespoons; 30g)
+                                                                                                    -
+                                                                                                    8. 6 ounces plain or toasted sugar (about 3/4 cup plus 2 tablespoons; 170g)
+                                                                                                    -
+                                                                                                    9. 1/4 teaspoon (1g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight
+                                                                                                    -
+                                                                                                    10. 1 teaspoon orange blossom water (optional)
+                                                                                                    -------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    -------------------------------------------
+                                                                                                    1. Whisk sugar, cornstarch, and salt together in a 3-quart saucier. When no lumps of cornstarch remain, add exactly 14 ounces of the milk (about 1 2/3 cups; 396g) and whisk to combine. Cook over medium heat, whisking constantly but not vigorously, until it begins to simmer. This will take about 6 minutes; if the process seems to be moving slowly, simply turn up the heat. When mixture comes to a boil, set a timer and continue cooking and whisking for exactly 1 minute. This ensures the cornstarch is fully hydrated
+                                                                                                    -
+                                                                                                    2.
+Immediately transfer mixture to a large bowl, then whisk in the remaining milk and cream. Bearing in mind that the gelato will taste substantially less sweet once frozen, season with an additional pinch of salt, if desired. Cover and refrigerate the gelato base until cold, thick, and no warmer than 40°F (4°C), about 3 hours. (This process can be sped along with an ice bath if time is of the essence; in that case, a stainless steel bowl will help cool the base even faster.)
+                                                                                                    -
+                                                                                                    3. Combine raspberries, lemon juice, sugar, and salt in a 2-quart stainless steel saucier. Make note of the filled saucier's weight at this stage so the reduction can be tracked digitally on the scale. Stir and mash the fruit with a fork, until the berries have been crushed into a syrup, then place over medium heat. Bring to a boil, stirring and scraping continuously along the bottom and sides of the saucier with a flexible, heat-resistant spatula. Bringing the mixture to a boil should take no longer than 5 minutes; if this process seems to be moving too slowly, simply increase the heat
+                                                                                                    -
+                                                                                                    4. Once mixture begins to boil, continue cooking until reduced by 4 1/2 ounces or to a final volume of about 1/2 cup. This phase should take about 6 minutes. While it's natural for the timing to vary from one stovetop to the next, a significant delay may indicate the heat is too low, or that there's a problem with the thermometer (such as shallow or unsteady placement of the probe). When in doubt, weight measurements will provide a more reliable indication of the reduction's progress. Transfer the syrup to a heat-safe container and stir in orange blossom water, if using. Strain, if desired. Cover and refrigerate until no warmer than 40°F (4°C) before use
+                                                                                                    -
+                                                                                                    5. Churn in an ice cream maker according to the manufacturer’s directions. Meanwhile, place a quart-sized container and flexible spatula in the freezer. When gelato looks fluffy and thick, shut off the machine and, using chilled spatula, scrape gelato into chilled container, drizzling a thick ribbon of raspberry syrup over each addition and reserving the rest to sauce the finished scoops. Cover with plastic wrap pressed directly against the surface of the gelato and freeze until thick enough to scoop, about 4 hours
+                                                                                                    -
+                                                                                                    6. Gelato is typically served at about 16°F (-9°C), while most American freezers run at 0°F (-18°C). For the most authentic presentation, soften gelato to 16°F in the refrigerator before serving. In a squat container, like a yogurt tub or a square storage container, this will take about 45 minutes. However, the timing will vary substantially if a different container (such as a metal loaf pan or glass baking dish) is used, depending on the size, shape, and material of the container, so check on the gelato frequently to ensure it does not melt. Serve with additional syrup, if desired
+                                                                                                    -------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    -------------------------------------------
+                                                                                                    Calories: 130.2
+                                                                                                    -
+                                                                                                    Total fat: 4g
+                                                                                                    -
+                                                                                                    Cholesterol: 44mg
+                                                                                                    -
+                                                                                                    Sodium: 51.1mg
+                                                                                                    -
+                                                                                                    Potassium: 199mg
+                                                                                                    -
+                                                                                                    Total Carbohydrate: 24mg
+                                                                                                    "
+            tools:ignore="HardcodedText" />
+
+    </ScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".french_toast">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="298dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="433dp"
+        android:background="@drawable/french_toast"
+        android:foreground="@drawable/french_toast" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="434dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="296dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="INGREDIENTS:
+                                                                                                    ---------------------------------------------------------
+                                                                                                    1. 4 large eggs
+                                                                                                    -
+                                                                                                    2. 1/2 cup (120 ml) milk
+                                                                                                    -
+                                                                                                    3. 1/4 cup (60 ml) heavy cream
+                                                                                                    -
+                                                                                                    4. 1 teaspoon vanilla extract
+                                                                                                    -
+                                                                                                    5. Pinch of salt
+                                                                                                    -
+                                                                                                    6. 8 slices day-old bread, 3/4-inch-thick
+                                                                                                    -
+                                                                                                    7. 3 tablespoons butter, plus more for serving
+                                                                                                    -
+                                                                                                    8. Optional toppings: Powdered sugar, maple syrup, berries, whipped cream, cinnamon sugar (recipe below)
+                                                                                                    ----------------------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    ----------------------------------------------------------
+                                                                                                    1. Heat oven to 200 degrees F. Line a baking sheet with aluminum foil. Slide the baking sheet into the oven. (It is best to make French toast in batches. The warm oven helps keep cooked batches warm while the rest finish cooking)
+                                                                                                    -
+                                                                                                    2. Whisk eggs, milk, cream, vanilla extract and a pinch of salt together until well blended
+                                                                                                    -
+                                                                                                    3. Line bread slices up in a large baking dish (it is okay if they overlap). Pour egg mixture over bread slices then flip and move them around the egg mixture. Continue to move the slices around the egg mixture until the bread has soaked it all up
+                                                                                                    -
+                                                                                                    4. Melt a tablespoon of butter in a heavy, large pan or griddle over medium-low heat. Working in batches, transfer a few slices of the soaked bread to the pan and cook until golden brown and cooked through, 2 to 3 minutes on each side. Transfer cooked French toast to warm oven while you cook the remaining bread slices. Add additional butter as needed for each batch
+                                                                                                    ---------------------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    ---------------------------------------------------------
+                                                                                                    Calories: 229
+                                                                                                    -
+                                                                                                    Total fat: 11g
+                                                                                                    -
+                                                                                                    Cholesterol: 116mg
+                                                                                                    -
+                                                                                                    Sodium: 479mg
+                                                                                                    -
+                                                                                                    Potassium: 134mg
+                                                                                                    -
+                                                                                                    Total carbohydrates: 25g
+                                                                                                    "
+            tools:ignore="HardcodedText"/>
+
+    </ScrollView>
+
+</RelativeLayout>

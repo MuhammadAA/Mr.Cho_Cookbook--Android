@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:andoid="http://schemas.android.com/apk/distribution"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Mr. Cho's Cookbook"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".cola"
+            android:label="Cho-cola recipe"/>
+        <activity android:name=".gelato_r"
+            android:label="Gelacho recipe"/>
+        <activity android:name=".cookies_n_creme_r"
+            android:label="Chokies n' Cream milkshake recipe"/>
+        <activity android:name=".crossant"
+            android:label="Chossant recipe"/>
+        <activity android:name=".french_toast"
+            android:label="French Choast recipe"/>
+        <activity android:name=".baked_potato"
+            android:label="Baked Potacho recipe"/>
+        <activity android:name=".nachos_r"
+                android:label="Nachos recipe"/>
+        <activity android:name=".chocolate_cake_r"
+            android:label="Chocolate Cake Recipe"/>
+        <activity android:name=".wedges_r"
+            android:label="Chotato Wedges recipe"/>
+        <activity android:name=".shawarma"
+            android:label="Chowarma recipe"/>
+        <activity android:name=".Boba_tea_r"
+            android:label="Choba Tea recipe"/>
+        <activity
+            android:name=".biryani_r"
+            android:label="Biryani recipe"/>
+        <activity
+            android:name=".SecondActivity"
+            android:label="Cho's Favorites"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

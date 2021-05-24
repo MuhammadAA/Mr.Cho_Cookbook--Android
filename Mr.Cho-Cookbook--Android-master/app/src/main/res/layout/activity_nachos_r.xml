@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".nachos_r">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="361dp"
+        android:background="@drawable/nachos"
+        android:foreground="@drawable/nachos" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="367dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="361dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="3dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="INGREDIENTS:
+                                                                                                    -----------------------------------------------------
+                                                                                                    1. 8 ounces ground beef
+                                                                                                    -
+                                                                                                    2. 1 (16-ounce) can refried beans
+                                                                                                    -
+                                                                                                    3. 1 (8-ounce) can tomato sauce
+                                                                                                    -
+                                                                                                    4. 1/2 cup chopped green bell pepper
+                                                                                                    -
+                                                                                                    5. 1/2 cup chopped onion
+                                                                                                    -
+                                                                                                    6. 1 (1-ounce) envelope taco seasoning
+                                                                                                    -
+                                                                                                    7. 1 cup shredded cheddar cheese (or more, to taste)
+                                                                                                    -
+                                                                                                    8. 1 bag tortilla chips
+                                                                                                    -
+                                                                                                    Optional: sour cream, salsa, sliced scallions for serving
+                                                                                                    ----------------------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    ----------------------------------------------------------
+                                                                                                    1. Heat oven to 350 F
+                                                                                                    -
+                                                                                                    2. Heat the oil in a large, deep skillet or Dutch oven over medium heat. Cook the ground beef, stirring and breaking up until it is no longer pink. Add the refried beans, tomato sauce, chopped bell pepper and onion, and the taco seasoning mix to the pot and simmer for 10 to 12 minutes
+                                                                                                    -
+                                                                                                    3. While the beef mixture is simmering, arrange the tortilla chips in a shallow casserole dish
+                                                                                                    -
+                                                                                                    4. Spoon the hot mixture over the chips
+                                                                                                    -
+                                                                                                    5. Sprinkle the shredded cheese on top and transfer to the preheated oven
+                                                                                                    -
+                                                                                                    6. Bake the nachos for 20 minutes, or until the cheese has melted and is lightly browned
+                                                                                                    -
+                                                                                                    7. Serve the nachos hot from the oven along with sour cream and other condiments, as desired
+                                                                                                    ---------------------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    ---------------------------------------------------------
+                                                                                                    Calories: 306
+                                                                                                    -
+                                                                                                    Total fat: 17g
+                                                                                                    -
+                                                                                                    Cholesterol: 16mg
+                                                                                                    -
+                                                                                                    Sodium: 722mg
+                                                                                                    -
+                                                                                                    Potassium: 152mg
+                                                                                                    -
+                                                                                                    Total Carbohydrate: 32g
+                                                                                                    "
+            tools:ignore="HardcodedText" />
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".chocolate_cake_r">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="397dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="334dp"
+        android:background="@drawable/cake"
+        android:foreground="@drawable/cake" />
+
+
+    <ScrollView
+        android:layout_width="409dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="386dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="INGREDIENTS:
+                                                                                                    -------------------------------------------------------------------
+                                                                                                    1. 8 ounces (227 grams) bittersweet chocolate, finely chopped                                                                                   -
+                                                                                                    2. 2/3 cup (57 grams) Dutch-process cocoa, sifted                                                                                   -
+                                                                                                    3. 2 teaspoons instant espresso powder*                                                                                   -
+                                                                                                    4. 1 cup boiling water                                                                                   -
+                                                                                                    5. 1 3/4 (222 grams) cups all-purpose flour                                                                                   -
+                                                                                                    6. 1 cup (200 grams) granulated sugar                                                                                   -
+                                                                                                    7. 1/2 cup (100 grams) packed light brown sugar                                                                                   -
+                                                                                                    8. 1 teaspoon salt                                                                                   -
+                                                                                                    9. 1 teaspoon baking soda                                                                                   -
+                                                                                                    10. 1 cup (227 grams) sour cream, at room temperature                                                                                   -
+                                                                                                    11. 1/2 cup vegetable oil*                                                                                   -
+                                                                                                    12. 4 large eggs plus one egg yolk, at room temperature                                                                                   -
+                                                                                                    13. 1 tablespoon white vinegar                                                                                   -
+                                                                                                    14. 2 teaspoons vanilla extract                                                                                   -
+                                                                                                    15. 2/3 cup (133 grams) granulated sugar                                                                                   -
+                                                                                                    16. 4 large egg whites                                                                                   -
+                                                                                                    17. 1/4 teaspoon salt                                                                                   -
+                                                                                                    18. 3 sticks (340 grams) unsalted butter, cut into 12 pieces and at room temperature                                                                                   -
+                                                                                                    19. 12 ounces (340 grams) semisweet chocolate, melted and cooled slightly                                                                                   -
+                                                                                                    20. 1 teaspoon vanilla extract
+                                                                                                    -------------------------------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    -------------------------------------------------------------------
+            1.                                                                                          In a medium heatproof bowl add the chocolate, cocoa powder, and espresso powder. Pour hot water over mixture. Cover and let stand for 5 minutes. Whisk mixture gently until smooth then set aside to cool                                                                                   -                                                                                   2.
+
+
+
+                                                                                                     Meanwhile, preheat the oven to 350°F. Butter
+                                                                                                    and flour two 8-inch round cake pans.                                                                                   -                                                                                   3.
+
+
+                                                                                                     In a small bowl, whisk together the flour, sugars, salt, and baking soda
+                                                                                                    -
+
+
+                                                                                                    4.Whisk sour cream, oil, eggs, egg yolk, vinegar, and vanilla into the cooled chocolate mixture until smooth.
+                                                                                                     Stir in the flour mixture until smooth, being careful not to overmix. Batter will be thin
+                                                                                                    -
+
+                                                                                                    5.Pour the batter into the prepared pans and bake for 35 to 40 minutes,
+                                                                                                    or until a cake tester comes out clean. Cool in the pans for 30 minutes,
+                                                                                                    then carefully turn them out onto a cooling rack to cool completely
+                                                                                                    -
+
+                                                                                                    6.Combine the sugar, egg whites, and salt in the bowl of a stand mixer. Set bowl over a saucepan filled with 1-inch of gently simmering water. Whisking gently and constantly, heat mixture until sugar is dissolved and mixture is slightly thickened and foamy and registers 150°F on a candy thermometer or a digital thermometer, about 3 minutes
+                                                                                                    -
+
+                                                                                                    7.Fit stand mixer with whisk attachment and beat the egg white mixture on medium speed until slightly cooled and thickened, about 2 minutes. Add the butter, 1 piece at a time, until smooth and creamy. If the mixture looks curdled, that’s okay. Just keep beating until it becomes smooth. If the butter becomes too warm and greasy, refrigerate the bowl for 10 to 15 minutes then continue to beat until smooth
+                                                                                                    -
+
+                                                                                                    8.Add chocolate and vanilla and mix until combined. Increase speed to medium-high and beat until light, fluffy, and well combined, about 30 seconds, scraping down the sides of the bowl as necessary
+                                                                                                    -
+
+                                                                                                    9.Place one cake layer on a cake turntable or cake stand. Spread an even layer of frosting all of the cake layer, pushing it out over the edge just slightly. Place the other cake layer upside-down on top of the frosting so that the top of the cake is nice and flat. With an offset spatula, spread the remaining frosting evenly all over the cake, smoothing the edges. Serve or cover and store in the fridge for up to 2 days. Let come to room temperature for an hour before serving
+                                                                                                    -----------------------------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    -----------------------------------------------------------------
+                                                                                                    Calories: 371
+                                                                                                    -
+                                                                                                    Total fat: 15g
+                                                                                                    -
+                                                                                                    Cholesterol: 58mg
+                                                                                                    -
+                                                                                                    Sodium: 315mg
+                                                                                                    -
+                                                                                                    Potassium: 140mg
+                                                                                                    -
+                                                                                                    Total carbohydrate: 53g
+                                                                                                    "
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+    </ScrollView>
+
+</RelativeLayout>

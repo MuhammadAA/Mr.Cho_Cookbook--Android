@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".cola">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="385dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="346dp"
+        android:background="@drawable/cola"
+        android:foreground="@drawable/cola" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="357dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="381dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="-7dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="INGREDIENTS:
+                                                                                                    -----------------------------------------------------------------
+                                                                                                    1. 1 quart water
+                                                                                                    -
+                                                                                                    2. Finely grated zest and juice of 1 lemon
+                                                                                                    -
+                                                                                                    3. Finely grated zest and juice of 1 lime
+                                                                                                    -
+                                                                                                    4. Finely grated zest and juice of 2 oranges
+                                                                                                    -
+                                                                                                    5. 3 large (5-inch) cinnamon sticks, broken into small pieces
+                                                                                                    -
+                                                                                                    6. 2 tablespoons dried bitter orange peel
+                                                                                                    -
+                                                                                                    7. 2 teaspoons coriander seed
+                                                                                                    -
+                                                                                                    8. 1/4 teaspoon finely grated nutmeg
+                                                                                                    -
+                                                                                                    9. 1 teaspoon gum arabic (optional)
+                                                                                                    -
+                                                                                                    10. 2 pounds sugar
+                                                                                                    -
+                                                                                                    11. 1/4 cup browning sauce, such as Kitchen Bouquet
+                                                                                                    -
+                                                                                                    12. 1/2 teaspoon vanilla extract
+                                                                                                    ------------------------------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    ------------------------------------------------------------------
+                                                                                                    1. Combine the water, lemon zest, lime zest, orange zest, cinnamon, bitter orange peel, coriander seed, nutmeg, and gum arabic (if using) in a large saucepan. Whisk together until the gum arabic dissolves. Stir in the sugar and bring to a boil, stirring until the sugar dissolves. Boil for 1 minute
+                                                                                                    -
+                                                                                                    2. Remove from the heat and stir in the lemon, lime, and orange juices, along with the browning sauce and vanilla. Let cool, then strain. This syrup will keep in the refrigerator for up to 2 weeks
+                                                                                                    -
+                                                                                                    3. Pour 1/2 cup cola syrup into a tall glass. Add 1 1/2 cups seltzer and stir until just blended. Add ice and serve
+                                                                                                    -
+                                                                                                    4. Combine 3 1/4 cups water and 3/4 cup cola syrup in a 1-quart siphon. Charge with CO2 according to the manufacturer's directions. Siphon charged sodas can be stored in the siphon in a refrigerator for up to 5 days. Dispense as desired into tall glasses filled with ice and serve
+                                                                                                    -------------------------------------------------------------------
+                                                                                                    Nutritional facts:
+                                                                                                    -------------------------------------------------------------------
+                                                                                                    Calories: 240
+                                                                                                    -
+                                                                                                    Total fat: 0g
+                                                                                                    -
+                                                                                                    Cholesterol: 0mg
+                                                                                                    -
+                                                                                                    Sodium: 45mg
+                                                                                                    -
+                                                                                                    Potassium: 40mg
+                                                                                                    -
+                                                                                                    Total carbohydrate: 39g
+                                                                                                    "
+            tools:ignore="HardcodedText"/>
+
+    </ScrollView>
+
+</RelativeLayout>

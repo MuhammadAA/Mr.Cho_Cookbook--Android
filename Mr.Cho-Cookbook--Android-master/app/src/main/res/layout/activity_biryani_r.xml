@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".biryani_r">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="391dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="-3dp"
+        android:layout_marginTop="-6dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="345dp"
+        android:background="@drawable/biryani"
+        android:foreground="@drawable/biryani" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="362dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="369dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="0dp">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="INGREDIENTS:
+                                                                                                    ------------------------------------------------------------------
+                                                                                                    1.Meat on Bones - 1kg                                                                                                          -
+                                                                                                    2.Basmati rice - 3 and 1/2 cups                                                                                                               -
+                                                                                                    3.Onions - 3 finely sliced                                                                                                              -
+                                                                                                    4.Tomatoes - 3 to 4 diced                                                                                                                -
+                                                                                                    5.Potatoes - 2 peeled and quartered                                                                                                              -
+                                                                                                    6.Garlic paste - 2 tablespoons                                                                                                              -
+                                                                                                    7.Ginger paste - 2 tablespoons                                                                                                             -
+                                                                                                    8.Plain yogurt - 1 cup whipped                                                                                                            -
+                                                                                                    9.Cooking oil - 1 cup                                                                                                             -
+                                                                                                    10.Shan Special Bombay Biryani Mix                                                                                                              -
+                                                                                                    11.packet, mix in 1/2 cups of water
+                                                                                                    ------------------------------------------------------------------
+                                                                                                    COOKING STEPS:
+                                                                                                    ------------------------------------------------------------------
+                                                                                                    1.Fry onions in hot oil until golden. Add tomatoes and fry until oil separates                                                                                                                                         -
+                                                                                                    2.Add meat, garlic paste, ginger paste, yogurt, potatoes and Shan Special Bombay Biryani Mix. Stir fry for 10 minutes                                                                                                                                              -
+                                                                                                    3.Add water (Beef/Lamb 4 cups, Chicken 2 cups). Cover and cook on low heat until meat is tender. Then increase heat and stir fry until oil separates from gravy                                                                                                                          -
+                                                                                                    4.separately: In 15 cups / 3 liters of boiling water, stir in tablespoons of Shan Salt and soaked rice. Boil rice until ¾ cooked. Remove and drain thoroughly
+                                                                                                    ------------------------------------------------------------------"
+            tools:ignore="HardcodedText" />
+
+
+    </ScrollView>
+
+
+</RelativeLayout>
